@@ -4,6 +4,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
+* [How to Run](#how-to-run)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
@@ -49,6 +50,17 @@ The data set contains the following diseases:
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+
+## How to run
+1. Install the libraries:
+   ```bash
+   pip install tensorflow Augmentor numpy pandas matplotlib pillow
+   ```
+2. Get the data: the ISIC skin cancer images (`Train/` and `Test/` folders, one sub-folder per class). The notebook was run on Google Colab with the images on Google Drive; change `data_dir_train` / `data_dir_test` to your own folders when running elsewhere.
+3. Open and run the notebook:
+   ```bash
+   jupyter notebook "Ankur_A_Gupta_nn.ipynb"
+   ```
 
 ## Technologies Used
 - Python
