@@ -73,10 +73,6 @@ The data set contains the following diseases:
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Contact
-Created by [@Ankur A Gupta] - feel free to contact me!
-
-
 <!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
